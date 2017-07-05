@@ -2,6 +2,13 @@
 Implementation of Graphs: 
 
 Adjacency Matrix
+-BFS
+-DFS
+-Dijkstra
+-Kruskal
+-Prim MST
+-Warshall
+-Topological Sort
 */
 
 ///	Author: Deepanker Sachdeva
